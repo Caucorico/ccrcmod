@@ -12,9 +12,11 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-@Mod("ccrcgeologicalmod")
+@Mod(CCRCGeologicalMod.MODID)
 public class CCRCGeologicalMod
 {
+    public static final String MODID = "ccrcgeologicalmod";
+
     private static final Logger LOGGER = LogManager.getLogger();
 
     public CCRCGeologicalMod() {
