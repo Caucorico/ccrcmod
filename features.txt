@@ -1,0 +1,14 @@
+ccrcgeologicalmod :
+    v0.1 : Prepare prehistoricalmod
+        v0.0.1 : Mod structure
+        v0.0.2 : Add Agate/Agate
+        v0.0.3 : Add Limestone/Calcaire
+        v0.0.4 : Add Chalcedony/Calcédoine
+        v0.0.5 : Add Chert/Chaille
+        v0.0.6 : Add Jadeite/Jadéite
+        v0.0.7 : Add Jasper/Jaspe
+        v0.0.8 : Add Obsidian/Obsidienne
+        v0.0.9 : Add Onyx/Onyx
+        v0.0.10 : Add Quartzite/Quartzite
+        v0.0.11 : Add Chalk/Craie
+        v0.0.12 : Add Silex/Silex
