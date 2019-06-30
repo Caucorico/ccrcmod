@@ -1,5 +1,6 @@
 package fr.caucorico.ccrcgeologicalmod;
 
+import fr.caucorico.ccrcgeologicalmod.init.ModGen;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
@@ -35,7 +36,7 @@ public class CCRCGeologicalMod
 
     private void setup(final FMLCommonSetupEvent event)
     {
-        // some preinit code
+        ModGen.addBlockAgateSandOreToTheGen();
     }
 
     private void doClientStuff(final FMLClientSetupEvent event) {
