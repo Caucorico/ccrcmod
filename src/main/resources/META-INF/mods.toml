@@ -46,7 +46,7 @@ issueTrackerURL="https://github.com/Caucorico/ccrcmod/issues"
 
     mandatory=true
 
-    versionRange="[1.14.3]"
+    versionRange="[1.14.4]"
 
     ordering="NONE"
 
